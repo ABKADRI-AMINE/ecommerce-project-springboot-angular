@@ -1,27 +1,16 @@
-# AngularEcommerce
+Full Stack E-commerce Application with Angular and Spring Boot
+This is a full-stack e-commerce application built with Angular 16.2.1 for the front-end and Spring Boot 3 for the back-end. The back-end is built using REST APIs and a MySQL database. The front-end allows for dynamic search , pagination, protected routes a
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+Technologies Used
+Angular 16.2.1
+Spring Boot 3
+MySQL Database
+HTML, CSS, JavaScript, TypeScript, and Bootstrap
+Postman for API testing
+Features
+Shopping Cart Feature: The application has a shopping cart feature that allows users to add and remove items from their cart  .
+Dynamic Search: The application allows for dynamic search by category, which allows users to search for products by category.
 
-## Development server
+Pagination: The application supports pagination, which allows users to view a certain number of products per page
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Postman: The application uses Postman for API testing, which allows developers to test the API endpoints and ensure they are working as intended.
